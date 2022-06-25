@@ -1,2 +1,2 @@
 # helpertools
-Common utilities for everyday work
+Common utilities & libraries for everyday work
